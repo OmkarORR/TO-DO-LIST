@@ -1,3 +1,5 @@
+React JS + Vite
+
 TO-DO-LIST
 Welcome to the TO-DO-LIST project! This application empowers users to efficiently organize their tasks by creating a personalized schedule. Users can easily add tasks, specifying the title and description, along with the scheduled time for completion.
 
